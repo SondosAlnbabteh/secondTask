@@ -1,0 +1,16 @@
+h2{
+    margin-left: 40px;
+}
+
+table{
+    font-size: 20px;
+    margin: 40px;
+    border-spacing: 12px;
+}
+td {
+    padding: 10px 12px;
+    border: 1px solid black;
+    box-shadow: 3px 5px 1px #888888;
+    border-radius: 8px;
+    
+}

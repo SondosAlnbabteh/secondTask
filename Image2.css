@@ -1,0 +1,27 @@
+#main{
+    background-color: rgb(252, 252, 239);
+    padding: 15px; 
+    border-right:2px solid black ;
+    position: absolute;
+}
+.Boxes{
+    float: left;
+    width: 200px;
+    height: 99px;
+    padding: 2px;
+    margin: 5px;
+    background-color: rgb(235, 223, 223);
+    overflow: clip;
+    position: relative;
+}
+
+#scroll{
+    margin-bottom: 0px;
+    margin-left: 5px;
+    width: 650px;
+    height: 50px;
+    overflow: auto;
+    border-top:3px solid black ;
+    border-bottom:3px solid black ;
+    position: relative;
+}
